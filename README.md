@@ -1,2 +1,2 @@
 # GOPON
-Good Old Object Notation
+Good Old Plain Object Notation
